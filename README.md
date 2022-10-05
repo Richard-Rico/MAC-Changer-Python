@@ -2,7 +2,7 @@
 
 ## Description ⛰
 
-This repository contains a simple MAC changer writing with Python for Ethical Haking
+This repository contains a simple MAC changer automatic program, writing with Python for Ethical Haking
 
 ![mac_changer](https://user-images.githubusercontent.com/104793974/194025534-da73cb57-f147-496c-ab61-9530714c85f7.JPG)
 
